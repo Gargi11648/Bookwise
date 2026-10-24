@@ -1,0 +1,10 @@
+C:\Users\gargi\OneDrive\Desktop\Aip project\book-recommender\src\main\java\com\bookrec\BookRecommenderApplication.java
+C:\Users\gargi\OneDrive\Desktop\Aip project\book-recommender\src\main\java\com\bookrec\config\DataSeeder.java
+C:\Users\gargi\OneDrive\Desktop\Aip project\book-recommender\src\main\java\com\bookrec\controller\ApiController.java
+C:\Users\gargi\OneDrive\Desktop\Aip project\book-recommender\src\main\java\com\bookrec\dao\RecommendationJdbcDao.java
+C:\Users\gargi\OneDrive\Desktop\Aip project\book-recommender\src\main\java\com\bookrec\model\AppUser.java
+C:\Users\gargi\OneDrive\Desktop\Aip project\book-recommender\src\main\java\com\bookrec\model\Book.java
+C:\Users\gargi\OneDrive\Desktop\Aip project\book-recommender\src\main\java\com\bookrec\model\Rating.java
+C:\Users\gargi\OneDrive\Desktop\Aip project\book-recommender\src\main\java\com\bookrec\repository\BookRepository.java
+C:\Users\gargi\OneDrive\Desktop\Aip project\book-recommender\src\main\java\com\bookrec\repository\RatingRepository.java
+C:\Users\gargi\OneDrive\Desktop\Aip project\book-recommender\src\main\java\com\bookrec\repository\UserRepository.java

@@ -1,0 +1,11 @@
+com\bookrec\model\Book.class
+com\bookrec\BookRecommenderApplication.class
+com\bookrec\model\AppUser.class
+com\bookrec\controller\ApiController.class
+com\bookrec\repository\RatingRepository.class
+com\bookrec\controller\ApiController$RatingRequest.class
+com\bookrec\config\DataSeeder.class
+com\bookrec\dao\RecommendationJdbcDao.class
+com\bookrec\model\Rating.class
+com\bookrec\repository\BookRepository.class
+com\bookrec\repository\UserRepository.class

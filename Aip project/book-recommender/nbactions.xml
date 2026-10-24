@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-run-app</actionName>
+            <displayName>run-app</displayName>
+            <goals>
+                <goal>spring-boot:run</goal>
+            </goals>
+            <properties>
+                <spring-boot.run.profiles>h2</spring-boot.run.profiles>
+            </properties>
+        </action>
+    </actions>
